@@ -1,0 +1,15 @@
+*.obj
+*.ilc
+*.ils
+*.ild
+*.ilf
+*.map
+*.res
+*.tds
+*.pch
+*.db
+Win32/Debug/*
+*.cbproj*
+__astcache
+__history
+__recovery
